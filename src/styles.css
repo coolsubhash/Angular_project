@@ -1,0 +1,34 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.nav_color a{
+    color: #D7D7DB;
+}
+.margin_t{
+    margin-top: -30px;
+}
+.margin_t1{
+    margin-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.padding_form{
+    padding: 20%;
+}
+.text_r{
+ margin-left: 0%;
+    font-size:13px;
+}
+.margin_r{
+    margin-left: 23%;
+}
+a[href]{
+ text-decoration: none;
+ color:#212529;
+}
+input[type]{
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-radius: 0px;
+}
